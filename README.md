@@ -25,6 +25,7 @@ These are the last projects I've been working on:
 
 
 ## Toolkit
+<!--
 <div>
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
@@ -35,8 +36,8 @@ These are the last projects I've been working on:
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" title="spacy" alt="spacy" width="40" height="40"/>&nbsp;
 </div>
+--->
 
-<!--
 ## Toolkit 
 <div>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" title="swift" alt="python" width="40" height="40"/>&nbsp;
@@ -45,9 +46,8 @@ These are the last projects I've been working on:
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postresql" alt="postresql" width="40" height="40"/>&nbsp;
---->
-          
-          
+
+                    
 </div>
 
 ## Get in Touch
