@@ -10,10 +10,10 @@
 </div>
 
 ## About Me
-I'm Ivan, a self-driven explorer who has embarked on a continuous journey of learning, and growth. I aim to create impactful solutions in the realms of software engineering, machine learning, and beyond.
+I'm Ivan, a self-driven data analyst with a passion for uncovering insights and creating impactful solutions. My journey is marked by continuous learning and growth in the realms of data analysis, machine learning, and beyond. I strive to leverage data to drive informed decisions and innovative solutions.
 
 ## Background
-I'm a self-motivated learner who completed the Yandex Practicum course, which solidified my knowledge base. I've always been fascinated by the world of data and its power to // uncover hidden insights. 
+I'm a self-motivated learner who completed a Data Science course by Yandex, which solidified my knowledge base. I've always been fascinated by the world of data and its power to uncover hidden insights.
 
 ## What Drives Me
 The Flammarion engraving (the picture above) perfectly shows my never-ending thirst for knowledge.
