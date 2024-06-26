@@ -10,13 +10,14 @@
 </div>
 
 ## About Me
-I'm Ivan, a self-driven data analyst with a passion for uncovering insights and creating impactful solutions. My journey is marked by continuous learning and growth in data analysis, machine learning, and beyond. "I am committed to using data to make informed decisions and develop innovative solutions."
+Hi, I'm Ivan. I love turning data into insights that lead to impactful solutions. 
+Statistics drives me crazy. In a good way :)
 
 ## Background
-I'm a self-motivated learner who completed a Data Science course by Yandex, which solidified my knowledge base. I've always been fascinated by the world of data and its power to uncover hidden insights.
+I'm a self-motivated learner who completed a Data Science course by Yandex. It solidified my previous theoretical knowledge base.
 
 ## What Drives Me
-The Flammarion engraving (the picture above) perfectly shows my never-ending thirst for knowledge.
+The Flammarion engraving (the picture above) perfectly shows my obsession with studying, learning, and problem-solving.
 
 <!--
 ## Projects and Contributions
@@ -26,6 +27,7 @@ These are the last projects I've been working on:
 -->
 
 ## Toolkit
+Here's my toolkit. I use these libraries and languages in my projects. 
 <div>
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
