@@ -10,7 +10,7 @@
 </div>
 
 ## About Me
-I'm Ivan, a self-driven data analyst with a passion for uncovering insights and creating impactful solutions. My journey is marked by continuous learning and growth in the realms of data analysis, machine learning, and beyond. I strive to leverage data to drive informed decisions and innovative solutions.
+I'm Ivan, a self-driven data analyst with a passion for uncovering insights and creating impactful solutions. My journey is marked by continuous learning and growth in data analysis, machine learning, and beyond. "I am committed to using data to make informed decisions and develop innovative solutions."
 
 ## Background
 I'm a self-motivated learner who completed a Data Science course by Yandex, which solidified my knowledge base. I've always been fascinated by the world of data and its power to uncover hidden insights.
@@ -18,11 +18,12 @@ I'm a self-motivated learner who completed a Data Science course by Yandex, whic
 ## What Drives Me
 The Flammarion engraving (the picture above) perfectly shows my never-ending thirst for knowledge.
 
+<!--
 ## Projects and Contributions
 These are the last projects I've been working on:
 - [English Exercises Generator](https://github.com/ivanrdnv/exercise-generator): a Python application that generates English exercises based on uploaded texts.
 - [Yandex Practicum](https://github.com/ivanrdnv/yandex-practicum) holds a collection of data science projects completed by me during the training course
-
+-->
 
 ## Toolkit
 <div>
